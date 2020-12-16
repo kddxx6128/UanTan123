@@ -10,7 +10,7 @@
 - SCP SL 플러그인 제작(C#)...
 - HTML, CSS 진짜 기본 문법.
 
-# 문의 방법
+# 문의 방법📞
 - Discord : UN10#7777
 - Gmail : kddxx6123@gmail.com
 
