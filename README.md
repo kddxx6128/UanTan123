@@ -1,7 +1,7 @@
 # 잘 부탁드립니다.👋
 
 # 소개📢
-- 12살에 처음 Team SB의 팀이 되어 Discord Bot 개발을 시작했습니다.
+- 12살에 처음 Team SB의 팀원이 되어 Discord Bot 개발을 시작했습니다.
 - 2020년 기준으로 13살입니다.
 - 위치🔮 : South Korea.
 
