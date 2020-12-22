@@ -11,7 +11,7 @@
 - HTML, CSS 진짜 기본 문법.
 
 # 문의 방법📞
-- Discord : UN10#7777
+- Discord : [UN10#7777](https://discord.com/users/445529063528857611)
 - Gmail : kddxx6123@gmail.com
 
 ### Github Stats
