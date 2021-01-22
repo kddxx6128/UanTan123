@@ -6,7 +6,7 @@
 # 할 수 있는 일🔧
 - Discord Bot making.
 - SCP SL 플러그인 제작(C#)...
-- HTML, CSS 진짜 기본 문법.
+~~- 마인크래프트 플러그인~~
 
 # 문의 방법📞
 - Discord : [UN10#7777](https://discord.com/users/445529063528857611)
