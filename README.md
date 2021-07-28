@@ -7,6 +7,7 @@
 
 # 할 수 있는 일🔧
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 # 문의 방법📞
 - Discord : [UN10#6763](https://discord.com/users/445529063528857611)
