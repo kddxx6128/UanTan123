@@ -6,9 +6,7 @@
 - 위치🔮 : South Korea.
 
 # 할 수 있는 일🔧
-- Discord Bot making.(Python)
-- SCP SL 플러그인 제작(C#)...
-- 마인크래프트 플러그인(Kotlin, Java)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 # 문의 방법📞
 - Discord : [UN10#6763](https://discord.com/users/445529063528857611)
