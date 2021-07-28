@@ -11,7 +11,7 @@
 - 마인크래프트 플러그인(Kotlin, Java)
 
 # 문의 방법📞
-- Discord : [UN10#7777](https://discord.com/users/445529063528857611)
+- Discord : [UN10#6763](https://discord.com/users/445529063528857611)
 - Gmail : kddxx6123@gmail.com
 
 ### Github Status
