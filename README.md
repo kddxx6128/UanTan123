@@ -1,6 +1,5 @@
 # WHO AM I?
- - 2008/08/26
- - 08/26/2008
+ - My birthday is 08/26
 
 # 소개📢
 - I'm from South Korea.
