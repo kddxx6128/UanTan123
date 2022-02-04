@@ -1,5 +1,6 @@
 # WHO AM I?
- - My birthday is 08/26
+ - I'm from south korea in ulsan
+ - My birthday is august 26th.
 
 # 소개📢
 - I'm from South Korea.
